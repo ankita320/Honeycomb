@@ -1,2 +1,2 @@
 # Honeycomb
-My final project for Kwk: web dev
+My final project for Kwk: web dev; HTML
